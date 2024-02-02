@@ -1,9 +1,9 @@
 '''
-@Author: 
-@Date: 
-@Last Modified by: 
-@Last Modified time:
-@Title : 
+@Author: Nilesh Kumar SIngh
+@Date: 02-02-2024
+@Last Modified by: Nilesh Kumar Singh
+@Last Modified time: 02-02-2024
+@Title : exception handling
 '''
 import csv
 import json
