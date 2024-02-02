@@ -3,7 +3,8 @@
 @Date: 02-02-2024
 @Last Modified by: Nilesh Kumar Singh
 @Last Modified time: 02-02-2024
-@Title : exception handling
+@Title : exception handling and logging
+
 '''
 import csv
 import json
